@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+#encabezado{
+    text-align: center;
+    padding-top: 20px !important;
+}
+
+.conteiner{
+    padding-top: 5rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    display: flex;
+    justify-content:center;
+}
+.cont{
+   display: flex !important;
+   justify-content: center !important;
+}
